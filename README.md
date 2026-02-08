@@ -150,7 +150,7 @@ Open any .ipynb file with Jupyter Notebook:
 Run the cells to see the analysis, model training, and results
 
 
-##📈 Skills Demonstrated
+## 📈 Skills Demonstrated
 
 ✅ Machine Learning & Classification
 
@@ -172,7 +172,7 @@ Run the cells to see the analysis, model training, and results
 
 ✅ Image Processing
 
-##📝 Notes
+## 📝 Notes
 
 Each project is in a separate Jupyter Notebook
 
@@ -182,14 +182,14 @@ Data preprocessing and feature engineering steps are included
 
 Model performance metrics and visualizations are provided
 
-##📧 Contact & Connect
+## 📧 Contact & Connect
 
 GitHub: @Ashweljohn
 Email:ashweljohn46@gmail.com
 
 Feel free to explore the projects and provide feedback!
 
-##📄 License
+## 📄 License
 These projects are for educational purposes. Feel free to use and modify for learning.
 
 ### Prerequisites
