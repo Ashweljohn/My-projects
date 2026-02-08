@@ -185,6 +185,7 @@ Model performance metrics and visualizations are provided
 ## 📧 Contact & Connect
 
 GitHub: @Ashweljohn
+
 Email:ashweljohn46@gmail.com
 
 Feel free to explore the projects and provide feedback!
