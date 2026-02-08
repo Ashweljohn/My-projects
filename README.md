@@ -140,34 +140,56 @@ Welcome to my portfolio of machine learning and artificial intelligence projects
 
 ## 🚀 Getting Started
 Running the Projects
+
 Clone this repository
+
 Navigate to the projects folder
+
 Open any .ipynb file with Jupyter Notebook:
+
 Run the cells to see the analysis, model training, and results
 
-📈 Skills Demonstrated
+
+##📈 Skills Demonstrated
+
 ✅ Machine Learning & Classification
+
 ✅ Deep Learning & Neural Networks
+
 ✅ Natural Language Processing (NLP)
+
 ✅ Computer Vision
+
 ✅ Time Series Analysis
+
 ✅ Data Analysis & Visualization
+
 ✅ Feature Engineering
+
 ✅ Model Evaluation & Optimization
+
 ✅ Recommendation Systems
+
 ✅ Image Processing
 
-📝 Notes
+##📝 Notes
+
 Each project is in a separate Jupyter Notebook
+
 Notebooks include detailed comments and explanations
+
 Data preprocessing and feature engineering steps are included
+
 Model performance metrics and visualizations are provided
 
-📧 Contact & Connect
+##📧 Contact & Connect
+
 GitHub: @Ashweljohn
+Email:ashweljohn46@gmail.com
+
 Feel free to explore the projects and provide feedback!
 
-📄 License
+##📄 License
 These projects are for educational purposes. Feel free to use and modify for learning.
 
 ### Prerequisites
